@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphagamer
 - 👀 I’m interested in developing apps
-- 🌱 I’m currently learning App architectures, Kotlin, Swift
+- 🌱 I possess expertise in App architectures, Kotlin, Swift
 - 💞️ I’m looking to collaborate on Android and iOS development
 - 📫 Reach me on my email id
 
