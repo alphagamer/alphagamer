@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @alphagamer
-- 👀 I’m interested in developing apps
-- 🌱 I possess expertise in App architectures, Kotlin, Swift
-- 💞️ I’m looking to collaborate on Android and iOS development
-- 📫 Reach me on my email id
+🚀 SwiftFoundry | iOS & Android Developer
+Building sleek, high-performance mobile applications—one line of code at a time. 
+Passionate about intuitive UI/UX, clean architecture, and pushing the limits of Apple & Google’s ecosystems. Whether it’s Swift, Kotlin, or the latest frameworks, I craft, debug, and deploy with precision.
 
-<!---
-alphagamer/alphagamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Stack: Swift | SwiftUI | UIKit | Xcode | Kotlin | Jetpack Compose | Android Studio | Firebase
+🔧 Expertise: iOS & Android App Development | Performance Optimization | UI/UX Design
+🔥 Motto: One dev. Infinite possibilities.
